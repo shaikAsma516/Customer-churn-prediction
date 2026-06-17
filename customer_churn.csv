@@ -1,0 +1,301 @@
+Customer_ID,Tenure_Months,Monthly_Charges,Contract_Type,Tech_Support,Churn
+1001,62,212.03,Month-to-Month,No,No
+1002,59,277.59,Month-to-Month,Yes,No
+1003,5,1609.64,One Year,No,No
+1004,27,2973.19,Two Year,Yes,No
+1005,67,249.07,Two Year,No,No
+1006,70,2372.85,Month-to-Month,Yes,Yes
+1007,15,2598.45,One Year,Yes,No
+1008,9,2595.85,Month-to-Month,Yes,Yes
+1009,57,2665.46,Two Year,Yes,No
+1010,34,478.38,Month-to-Month,No,No
+1011,41,2922.15,Month-to-Month,No,No
+1012,34,2858.27,One Year,Yes,No
+1013,70,659.15,Month-to-Month,No,Yes
+1014,14,1453.01,One Year,Yes,No
+1015,23,2669.42,Month-to-Month,Yes,Yes
+1016,19,1068.87,Two Year,Yes,No
+1017,39,1276.71,One Year,No,No
+1018,50,686.39,Two Year,No,No
+1019,9,2108.71,Two Year,No,No
+1020,71,2152.6,One Year,No,No
+1021,52,2184.7,One Year,No,No
+1022,30,2168.65,Two Year,No,No
+1023,68,2579.96,Month-to-Month,No,No
+1024,31,2618.24,One Year,No,No
+1025,17,441.38,One Year,Yes,No
+1026,43,722.79,Month-to-Month,No,Yes
+1027,13,903.05,Two Year,No,No
+1028,56,1260.65,One Year,No,No
+1029,55,790.09,One Year,No,No
+1030,61,1906.56,Two Year,No,No
+1031,46,1932.72,Month-to-Month,No,No
+1032,33,1390.0,Two Year,Yes,No
+1033,64,555.65,Month-to-Month,Yes,No
+1034,31,2990.46,Two Year,No,No
+1035,1,790.47,Month-to-Month,No,Yes
+1036,41,302.35,Two Year,No,No
+1037,1,725.34,Two Year,No,No
+1038,68,2484.65,Two Year,Yes,No
+1039,19,469.87,Month-to-Month,No,Yes
+1040,16,641.75,Two Year,No,No
+1041,32,2131.62,One Year,Yes,No
+1042,47,2826.3,Month-to-Month,No,No
+1043,29,1852.55,One Year,No,No
+1044,13,2795.78,Month-to-Month,No,Yes
+1045,31,1345.52,One Year,Yes,No
+1046,41,2239.18,Month-to-Month,Yes,Yes
+1047,38,1663.3,Month-to-Month,No,Yes
+1048,50,1192.79,Two Year,Yes,No
+1049,70,401.91,Two Year,Yes,No
+1050,30,530.11,One Year,No,No
+1051,57,2274.53,One Year,No,No
+1052,50,1462.17,Month-to-Month,No,No
+1053,2,2257.23,Month-to-Month,No,No
+1054,48,1055.44,Month-to-Month,Yes,No
+1055,60,2066.27,Month-to-Month,No,Yes
+1056,6,2436.81,Month-to-Month,No,Yes
+1057,70,1748.74,Two Year,Yes,No
+1058,65,2077.27,Month-to-Month,Yes,Yes
+1059,49,677.14,One Year,Yes,No
+1060,8,1421.47,Two Year,Yes,No
+1061,14,1578.35,Two Year,Yes,No
+1062,3,1774.76,Two Year,No,No
+1063,44,1675.32,Month-to-Month,Yes,Yes
+1064,33,1523.52,Month-to-Month,No,Yes
+1065,1,942.44,Two Year,No,No
+1066,56,1002.75,One Year,Yes,No
+1067,4,2659.59,Month-to-Month,No,No
+1068,64,414.46,One Year,Yes,No
+1069,48,1575.75,Two Year,No,No
+1070,46,2851.49,One Year,Yes,No
+1071,54,522.07,Month-to-Month,Yes,No
+1072,60,1708.96,One Year,Yes,No
+1073,58,982.42,Two Year,No,No
+1074,49,893.21,One Year,No,No
+1075,25,855.22,Two Year,No,No
+1076,7,344.55,Month-to-Month,No,Yes
+1077,25,2678.02,Two Year,No,No
+1078,30,627.04,Month-to-Month,No,No
+1079,43,2999.15,Two Year,No,No
+1080,19,1268.26,Month-to-Month,Yes,Yes
+1081,15,2819.76,Two Year,No,No
+1082,32,2186.63,Two Year,No,No
+1083,30,1007.35,Two Year,Yes,No
+1084,15,1662.72,One Year,Yes,No
+1085,65,2439.57,Two Year,No,No
+1086,60,2348.27,One Year,Yes,No
+1087,41,560.27,Month-to-Month,No,Yes
+1088,15,1143.38,Two Year,No,No
+1089,9,764.8,Month-to-Month,Yes,Yes
+1090,26,1697.43,Two Year,No,No
+1091,7,1318.31,One Year,No,No
+1092,71,2659.22,Two Year,Yes,No
+1093,8,2667.67,Two Year,Yes,No
+1094,48,2538.51,Two Year,No,No
+1095,25,623.84,Month-to-Month,No,Yes
+1096,12,2302.25,Month-to-Month,Yes,No
+1097,22,1084.17,Two Year,No,No
+1098,71,1392.23,Two Year,Yes,No
+1099,40,2996.21,Month-to-Month,No,Yes
+1100,44,1702.26,Two Year,No,No
+1101,65,817.53,One Year,Yes,No
+1102,50,2327.41,Two Year,No,No
+1103,48,967.03,Month-to-Month,Yes,No
+1104,14,2645.69,One Year,No,No
+1105,58,680.26,One Year,No,No
+1106,50,2623.86,Month-to-Month,Yes,No
+1107,32,2504.72,Month-to-Month,No,Yes
+1108,26,1517.95,One Year,Yes,No
+1109,48,2496.2,Month-to-Month,Yes,Yes
+1110,34,2265.78,Two Year,No,No
+1111,23,2278.76,Month-to-Month,No,No
+1112,59,2597.24,Month-to-Month,Yes,Yes
+1113,43,1358.75,Two Year,Yes,No
+1114,2,1793.37,Two Year,Yes,No
+1115,44,2222.84,Two Year,Yes,No
+1116,59,2861.52,One Year,Yes,No
+1117,27,2848.65,Month-to-Month,No,No
+1118,64,1206.5,Two Year,Yes,No
+1119,62,1466.26,One Year,Yes,No
+1120,57,1640.62,Month-to-Month,Yes,No
+1121,35,2662.12,One Year,No,No
+1122,51,582.04,Two Year,Yes,No
+1123,70,499.12,One Year,No,No
+1124,30,2364.84,Month-to-Month,No,No
+1125,48,2731.85,Month-to-Month,No,Yes
+1126,5,319.42,Month-to-Month,No,No
+1127,16,1483.84,Two Year,No,No
+1128,68,1194.06,One Year,Yes,No
+1129,12,599.21,Two Year,No,No
+1130,39,1658.02,Two Year,Yes,No
+1131,47,2373.4,One Year,No,No
+1132,44,352.74,One Year,No,No
+1133,1,1464.22,Two Year,Yes,No
+1134,51,2592.39,Two Year,No,No
+1135,23,2792.31,One Year,Yes,No
+1136,25,746.35,Month-to-Month,Yes,Yes
+1137,23,366.98,Month-to-Month,No,Yes
+1138,62,2839.46,Two Year,No,No
+1139,17,491.67,One Year,Yes,No
+1140,59,1342.98,Month-to-Month,No,No
+1141,56,333.21,Two Year,Yes,No
+1142,52,1895.66,One Year,Yes,No
+1143,33,2069.79,Month-to-Month,No,Yes
+1144,3,1633.68,Two Year,Yes,No
+1145,31,671.54,Two Year,No,No
+1146,4,1673.3,Two Year,Yes,No
+1147,31,2582.72,Month-to-Month,Yes,Yes
+1148,12,1852.57,Month-to-Month,Yes,Yes
+1149,2,1824.03,One Year,Yes,No
+1150,51,2859.95,Two Year,Yes,No
+1151,55,2705.15,One Year,No,No
+1152,58,2240.59,Two Year,No,No
+1153,16,506.44,Two Year,Yes,No
+1154,6,2183.42,Month-to-Month,Yes,Yes
+1155,41,1295.83,One Year,Yes,No
+1156,10,1436.45,Month-to-Month,No,No
+1157,2,630.2,Month-to-Month,No,Yes
+1158,56,2707.34,One Year,Yes,No
+1159,53,2234.73,One Year,No,No
+1160,33,2921.79,One Year,No,No
+1161,17,2467.03,Two Year,Yes,No
+1162,59,2286.56,Two Year,No,No
+1163,4,793.2,Two Year,No,No
+1164,35,2215.78,Two Year,Yes,No
+1165,52,963.3,Month-to-Month,No,No
+1166,43,1548.97,Two Year,No,No
+1167,42,322.96,Month-to-Month,No,Yes
+1168,15,2880.92,Month-to-Month,Yes,No
+1169,69,1937.6,Two Year,Yes,No
+1170,24,2759.84,Month-to-Month,Yes,No
+1171,26,2540.7,One Year,Yes,No
+1172,11,1141.2,Month-to-Month,No,Yes
+1173,57,1479.61,Month-to-Month,Yes,Yes
+1174,13,2455.21,Month-to-Month,Yes,No
+1175,64,2202.31,Two Year,Yes,No
+1176,30,2121.74,Month-to-Month,Yes,No
+1177,49,1910.02,One Year,Yes,No
+1178,68,1901.2,Two Year,No,No
+1179,44,1259.06,Two Year,No,No
+1180,1,1182.82,Two Year,No,No
+1181,51,2889.94,Two Year,No,No
+1182,64,1767.05,One Year,No,No
+1183,37,2160.71,One Year,Yes,No
+1184,13,2955.51,Month-to-Month,Yes,Yes
+1185,40,1579.39,Month-to-Month,Yes,No
+1186,61,1696.46,One Year,No,No
+1187,33,934.88,Month-to-Month,No,Yes
+1188,22,1783.98,One Year,No,No
+1189,18,1045.56,Month-to-Month,Yes,Yes
+1190,58,991.02,Month-to-Month,Yes,Yes
+1191,3,1407.24,Two Year,Yes,No
+1192,51,2906.81,Month-to-Month,Yes,No
+1193,46,2731.09,One Year,Yes,No
+1194,43,1625.31,Month-to-Month,Yes,Yes
+1195,52,1412.01,One Year,Yes,No
+1196,19,943.79,Two Year,No,No
+1197,55,1563.38,One Year,No,No
+1198,61,777.91,Month-to-Month,Yes,No
+1199,52,2218.22,Two Year,Yes,No
+1200,2,1394.57,Two Year,No,No
+1201,5,1879.4,Two Year,Yes,No
+1202,32,1707.05,One Year,No,No
+1203,51,1099.01,One Year,Yes,No
+1204,52,1850.9,One Year,No,No
+1205,14,1258.6,Month-to-Month,No,No
+1206,48,1918.53,Two Year,Yes,No
+1207,8,2906.71,One Year,No,No
+1208,5,466.58,Month-to-Month,Yes,Yes
+1209,54,1601.5,Two Year,No,No
+1210,9,318.07,One Year,No,No
+1211,67,1472.33,Two Year,Yes,No
+1212,23,2616.55,Two Year,Yes,No
+1213,38,2161.7,Two Year,No,No
+1214,27,847.77,One Year,No,No
+1215,37,1098.88,Two Year,Yes,No
+1216,29,569.9,One Year,Yes,No
+1217,22,814.25,Month-to-Month,Yes,Yes
+1218,27,2873.11,One Year,No,No
+1219,64,1923.42,One Year,Yes,No
+1220,71,551.53,Two Year,No,No
+1221,52,262.51,Month-to-Month,Yes,Yes
+1222,56,701.09,One Year,No,No
+1223,48,217.97,Month-to-Month,Yes,Yes
+1224,12,2035.6,One Year,No,No
+1225,8,853.69,One Year,No,No
+1226,43,1978.73,Two Year,No,No
+1227,67,848.0,Two Year,Yes,No
+1228,42,2671.1,Month-to-Month,No,Yes
+1229,58,2665.41,One Year,Yes,No
+1230,53,2276.76,One Year,Yes,No
+1231,9,1518.39,Two Year,No,No
+1232,56,1697.97,Two Year,Yes,No
+1233,48,1156.74,One Year,No,No
+1234,48,2799.78,One Year,Yes,No
+1235,52,1656.22,Two Year,Yes,No
+1236,45,2497.9,Two Year,No,No
+1237,23,2720.46,One Year,Yes,No
+1238,13,2403.93,One Year,No,No
+1239,1,2378.53,Month-to-Month,Yes,Yes
+1240,39,2110.31,One Year,Yes,No
+1241,38,1023.31,Month-to-Month,No,Yes
+1242,8,1065.2,Two Year,Yes,No
+1243,24,1246.22,Two Year,No,No
+1244,26,659.91,Two Year,No,No
+1245,62,1583.38,Two Year,No,No
+1246,63,1755.97,Month-to-Month,Yes,Yes
+1247,69,301.68,Month-to-Month,No,No
+1248,14,2595.58,Two Year,Yes,No
+1249,11,632.89,Month-to-Month,No,No
+1250,18,2640.19,One Year,Yes,No
+1251,69,429.11,Two Year,Yes,No
+1252,70,1004.52,Two Year,No,No
+1253,19,2583.73,One Year,No,No
+1254,71,2275.95,One Year,Yes,No
+1255,27,1896.76,Month-to-Month,Yes,No
+1256,56,2975.94,One Year,Yes,No
+1257,38,2024.11,One Year,No,No
+1258,27,2356.51,One Year,No,No
+1259,28,1431.63,Two Year,No,No
+1260,46,1664.72,One Year,No,No
+1261,1,1417.74,Month-to-Month,Yes,No
+1262,23,1290.08,One Year,Yes,No
+1263,66,309.91,Month-to-Month,No,Yes
+1264,43,1738.68,Two Year,No,No
+1265,1,2154.38,One Year,No,No
+1266,35,2106.44,Two Year,No,No
+1267,65,1695.61,One Year,No,No
+1268,9,1337.44,Month-to-Month,No,Yes
+1269,15,1182.35,Month-to-Month,No,Yes
+1270,45,1750.12,One Year,No,No
+1271,55,2376.76,One Year,Yes,No
+1272,57,931.37,One Year,Yes,No
+1273,40,2378.02,Month-to-Month,Yes,Yes
+1274,54,2356.1,Month-to-Month,Yes,Yes
+1275,53,817.7,Month-to-Month,No,Yes
+1276,21,870.98,One Year,Yes,No
+1277,71,1978.69,Month-to-Month,No,No
+1278,62,2413.55,One Year,Yes,No
+1279,60,2227.07,Month-to-Month,Yes,No
+1280,60,461.86,One Year,No,No
+1281,39,841.81,Two Year,No,No
+1282,21,1669.07,Two Year,No,No
+1283,45,1269.85,One Year,Yes,No
+1284,24,2333.53,One Year,No,No
+1285,43,2546.62,Two Year,Yes,No
+1286,64,995.43,One Year,Yes,No
+1287,57,2554.1,One Year,Yes,No
+1288,50,1473.73,One Year,Yes,No
+1289,5,1554.88,One Year,No,No
+1290,63,857.83,Month-to-Month,No,No
+1291,13,374.33,Month-to-Month,No,No
+1292,54,949.86,Month-to-Month,Yes,No
+1293,9,498.69,One Year,No,No
+1294,58,1911.27,One Year,No,No
+1295,58,2918.65,Month-to-Month,Yes,Yes
+1296,63,1343.05,Two Year,Yes,No
+1297,21,1767.39,Two Year,No,No
+1298,42,495.35,Two Year,Yes,No
+1299,3,1799.52,Two Year,Yes,No
+1300,46,1514.83,One Year,Yes,No
